@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 487ec3b5-f87c-c92a-a654-177ef97d7001
 ---
@@ -37,7 +40,7 @@ READINGS
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-Review of vector and integral calculus; cartesian, cylindrical, and spherical coordinate systems; e_j(ωt-kz)_ complex notation; gradient, curl, and divergence
+Review of vector and integral calculus; cartesian, cylindrical, and spherical coordinate systems; e{{< sup "_j(ωt-kz)_" >}} complex notation; gradient, curl, and divergence
 {{< tdclose >}}
 {{< tdopen >}}
 1.2-1.5, appendices B, C
