@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0d523bc2-e479-e903-ceb7-d101c853ad24
 resourcetype: Document
 title: "Lecture 3: Differential Form of Maxwell\u2019s Equations"
 uid: df6b1526-50ac-3118-dbe4-681647ff77d8

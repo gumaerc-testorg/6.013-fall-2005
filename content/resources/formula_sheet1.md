@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 14ff3e1b-59e4-ff3e-fd09-05564b5306b2
 resourcetype: Document
 title: Formula Sheet 1
 uid: 75b51c66-ac69-c46f-d425-b768d1256301

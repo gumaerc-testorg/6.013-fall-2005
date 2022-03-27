@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0d523bc2-e479-e903-ceb7-d101c853ad24
 resourcetype: Document
 title: 'Lecture 18: Fields and Moving Media'
 uid: 0c5acd98-3b04-0634-1c67-6b3666fa0e3d

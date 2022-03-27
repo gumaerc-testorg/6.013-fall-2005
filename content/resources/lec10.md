@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0d523bc2-e479-e903-ceb7-d101c853ad24
 resourcetype: Document
 title: Lecture 10 - Transmission Lines
 uid: d271a338-f6d6-db8b-f70d-f4ad95d805d6
