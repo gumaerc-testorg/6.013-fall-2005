@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the quizzes for the course along with solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -24,19 +25,19 @@ SOLUTIONs
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 1 ([PDF]({{< baseurl >}}/resources/q1))
+Quiz 1 ({{% resource_link d821e424-80e8-a7cf-4f69-955ddbf27815 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/q1_solution))
+({{% resource_link b27544e8-294d-c57b-28ad-47370a004a12 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 2 ([PDF]({{< baseurl >}}/resources/q2))
+Quiz 2 ({{% resource_link d164e8e1-b208-d6c8-8820-452025b5f028 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/q2_solution))
+({{% resource_link 23112e35-739f-21df-af8c-e60783d06f87 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

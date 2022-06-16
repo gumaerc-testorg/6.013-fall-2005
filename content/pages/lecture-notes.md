@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along the schedule
+  lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -47,7 +49,7 @@ Demos: H/M 10.2.1 - Edgerton's Boomer
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec1))
+({{% resource_link 547de84f-22bc-0a40-35f4-a285cd385afc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +61,7 @@ L2
 Derive boundary conditions; apply boundary conditions to surface charge and surface current problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec2))
+({{% resource_link a97a6124-0637-f263-ae84-84deea17ebd0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +79,7 @@ Demo: H/M 10.0.1 nonuniqueness of voltage in an MQS system
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{% resource_link df6b1526-50ac-3118-dbe4-681647ff77d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +91,7 @@ L4
 The electric field, electric scalar potential, and the gradient; Poisson's and Laplace's equations; potential of point charge; Coulomb superposition integral
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{% resource_link 6254accb-be56-e6cd-d24d-2916bcdbccd3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +103,7 @@ L5
 Method of images
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link 7e96c40b-ee77-1e12-b7a3-a2e28b326b31 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +127,7 @@ Conservation of charge boundary condition; Maxwell capacitor; magnetic dipoles a
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lec6_7))
+({{% resource_link a95e37a8-2694-6736-a065-f36767f86a8f "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +145,7 @@ L8
 Wave equation; Poynting's theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec8))
+({{% resource_link 2f455332-ba15-48a8-db83-ef1d78592088 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +157,7 @@ L9
 Oblique incidence on a perfect conductor; transverse magnetic (TM) waves with oblique incidence on lossless media described by ε and µ; reflection and transmission; transverse electric (TE) waves with oblique incidence on lossless media
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec9))
+({{% resource_link 099a51f7-9942-2c07-47c7-e8d691e42401 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +181,7 @@ Demo: H/M 13.1.1 visualization of standing waves
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10))
+({{% resource_link d271a338-f6d6-db8b-f70d-f4ad95d805d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +199,7 @@ Demo: _V(z,t), I(z,t)_ movies
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.6 MB)]({{< baseurl >}}/resources/lec11)
+({{% resource_link 27035dfb-2ffa-2460-b38e-f54ac5238d69 "PDF - 2.6 MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +223,7 @@ Reflections from ends; driven and initial value problems
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.5 MB]({{< baseurl >}}/resources/lec12_13))
+({{% resource_link 1fc37201-b3ee-1e8c-2abf-d195135312d3 "PDF - 2.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +235,7 @@ L14
 Rectangular waveguides; TM and TE modes; cut-off
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link 5d6aef1b-bff3-2f59-c4b2-3172f371dc68 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -257,7 +259,7 @@ Demo: evanescent waves
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link b779e350-88c0-fac1-b358-06ebdba23c76 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +285,7 @@ Film: _Synchronous Machines_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16_17))
+({{% resource_link f112ba4c-2b78-bd8b-00cb-ecdf71086ba4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +303,7 @@ Demo: H/M 7.7.1 van de Graaff and Kelvin generators (video); self-excited commut
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/lec18))
+({{% resource_link 0c5acd98-3b04-0634-1c67-6b3666fa0e3d "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +321,7 @@ L19
 Radiation by charges and currents; setting the gauge; Lorentz gauge; superposition integral solutions for scalar and vector potentials; radiation from a point electric dipole; receiving antenna properties
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19))
+({{% resource_link 8b731926-b8ec-6844-7762-df43dd0ed5e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -337,7 +339,7 @@ Demo: radiation patterns
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1 MB]({{< baseurl >}}/resources/lec20))
+({{% resource_link 0bcdd918-2648-636a-aa17-1ad9b0e68ceb "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -349,7 +351,7 @@ L21
 Transmitting and receiving antennas; wireless and optical communications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5 MB]({{< baseurl >}}/resources/lec21))
+({{% resource_link b8051505-996e-2668-bf23-bc02021f7a2a "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +369,7 @@ L22
 Acoustic waves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.5 MB]({{< baseurl >}}/resources/lec22))
+({{% resource_link 57c7ed2d-14f3-555c-88bd-45d13a4cb287 "PDF - 2.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -379,7 +381,7 @@ L23
 Course review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lec23))
+({{% resource_link a1b319fb-d356-6d85-f49f-4f97cec20450 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
