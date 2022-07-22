@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  texts, quizzes, homework, tutorials, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e659d7d6-3bb4-4efb-cbef-8024f7b39c91
 ---
@@ -23,7 +27,7 @@ Texts
 
 Staelin, David H. "Electromagnetics and Applications." (Course notes, Massachusetts Institute of Technology, n.d.) Earlier versions should not be used.
 
-Haus, Hermann A., and James R. Melcher. _Electromagnetic Fields and Energy_. Englewood Cliffs, NJ: Prentice-Hall, 1989. ISBN: 9780132490207. For figures and demos (out of print but available as a free [online textbook](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008).)
+Haus, Hermann A., and James R. Melcher. _Electromagnetic Fields and Energy_. Englewood Cliffs, NJ: Prentice-Hall, 1989. ISBN: 9780132490207. For figures and demos (out of print but available as a free [online textbook](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008).)
 
 Quizzes
 -------

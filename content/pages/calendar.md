@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lectures, recitations,
+  quizzes, and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2fadd4b8-0e20-9618-9a39-cd8571668a45
 ---
@@ -35,7 +39,7 @@ KEY DATES
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-Review of vector and integral calculus; cartesian, cylindrical, and spherical coordinate systems; e_j(ωt-kz)_ complex notation; gradient, curl, and divergence
+Review of vector and integral calculus; cartesian, cylindrical, and spherical coordinate systems; e{{< sup "_j(ωt-kz)_" >}} complex notation; gradient, curl, and divergence
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 1 out
