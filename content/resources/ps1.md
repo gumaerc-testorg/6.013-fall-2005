@@ -5,6 +5,7 @@ file: /courses/6-013-electromagnetics-and-applications-fall-2005/07f7885ef2b5067
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set #1'
 uid: 07f7885e-f2b5-0670-e8fe-a46c058b9439
 ---
 Problem set on on electromagnetics, applications, and Coulomb force law.
-

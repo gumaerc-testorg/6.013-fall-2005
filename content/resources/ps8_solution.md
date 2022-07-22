@@ -5,6 +5,7 @@ file: /courses/6-013-electromagnetics-and-applications-fall-2005/fa32484a5b295bc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set 8 - Solutions '
 uid: fa32484a-5b29-5bc3-43a5-f123497724e3
 ---
 Solutions to a problem set on electromagnetics and applications.
-

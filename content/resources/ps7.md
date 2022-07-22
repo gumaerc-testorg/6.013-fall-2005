@@ -7,6 +7,7 @@ file: /courses/6-013-electromagnetics-and-applications-fall-2005/c944b64a8927146
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Problem Set #7'
 uid: c944b64a-8927-146e-5891-330ce36d7bfc
 ---
 Problem set on electromagnetics and applications, series capacitors and shunt inductors, resonant frequencies, time-average power dissipated, and a complete Smith chart is given.
-

@@ -7,6 +7,7 @@ file: /courses/6-013-electromagnetics-and-applications-fall-2005/6254accbbe56e6c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 4: The Scalar Electric Potential and the Coulomb Superposition I
 uid: 6254accb-be56-e6cd-d24d-2916bcdbccd3
 ---
 Lecture notes on the scalar electric potential, Poisson’s equation, the Coulomb superposition integral, quasistatics, irrotational EQS electric fields, and vector identity.
-

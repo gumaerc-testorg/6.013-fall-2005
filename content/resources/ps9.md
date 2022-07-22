@@ -7,6 +7,7 @@ file: /courses/6-013-electromagnetics-and-applications-fall-2005/1c27c5ccd80b352
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Problem Set #9'
 uid: 1c27c5cc-d80b-3528-0fca-dc2646f463df
 ---
 Problem set on electromagnetics and applications, coaxial cylinder inductor, gravitational acceleration, torque of electrical origin, equilibrium angles, static angular deflection, and mathematical formulation.
-

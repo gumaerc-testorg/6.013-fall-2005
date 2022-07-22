@@ -6,6 +6,7 @@ file: /courses/6-013-electromagnetics-and-applications-fall-2005/5470238fd5ac5eb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set #8'
 uid: 5470238f-d5ac-5eb6-c7cc-48fbac9fbd65
 ---
 Problem set on electromagnetics and applications, switched transmission line systems, rectangular waveguide, TE, TM modes, and their fundamental shapes.
-

@@ -5,6 +5,7 @@ file: /courses/6-013-electromagnetics-and-applications-fall-2005/0bcdd9182648636
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 20 - Dipole Arrays
 uid: 0bcdd918-2648-636a-aa17-1ad9b0e68ceb
 ---
 Lecture notes on dipole arrays.
-
