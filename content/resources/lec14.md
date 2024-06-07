@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on parallel-plate waveguides, governing equations, and
   transverse electric modes with boundary conditions.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/5d6aef1bbff32f59c4b23172f371dc68_lec14.pdf
+file_size: 772690
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

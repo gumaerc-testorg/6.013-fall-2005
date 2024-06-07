@@ -5,6 +5,7 @@ description: Problem set on electromagnetics and applications, displacement curr
   volume charge distribution, electric scalar potential in Cartesian coordinates,
   electric field, and electric scalar potential.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/88e4331864be7e948556f761ddf33697_ps4.pdf
+file_size: 201185
 file_type: application/pdf
 learning_resource_types:
 - Assignments

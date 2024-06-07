@@ -4,6 +4,7 @@ description: Problem set on electromagnetics and applications, coaxial cylinder 
   gravitational acceleration, torque of electrical origin, equilibrium angles, static
   angular deflection, and mathematical formulation.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/1c27c5ccd80b35280fcadc2646f463df_ps9.pdf
+file_size: 192057
 file_type: application/pdf
 learning_resource_types:
 - Assignments
