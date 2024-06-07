@@ -4,6 +4,7 @@ description: Problem set on electromagnetics and applications, series capacitors
   shunt inductors, resonant frequencies, time-average power dissipated, and a complete
   Smith chart is given.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/c944b64a8927146e5891330ce36d7bfc_ps7.pdf
+file_size: 430293
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -4,6 +4,7 @@ description: Lecture notes on oblique incidence of electromagnetic waves, wave p
   at an arbitrary angle, oblique incidence onto a perfect conductor, and oblique incidence
   onto a dielectric.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/099a51f799422c0747c7e8d691e42401_lec9.pdf
+file_size: 751620
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

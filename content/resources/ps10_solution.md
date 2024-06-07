@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on electromagnetics and applications.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/96c9f138d4331222e3d4c47da80e1930_ps10_solution.pdf
+file_size: 144239
 file_type: application/pdf
 learning_resource_types:
 - Assignments

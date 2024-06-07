@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on governing acoustic equations and acoustic resonators.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/a1b319fbd3566d85f49f4f97cec20450_lec23.pdf
+file_size: 1246536
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

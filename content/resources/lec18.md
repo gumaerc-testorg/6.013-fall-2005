@@ -5,6 +5,7 @@ description: Lecture notes on Ohm's law in moving media, a moving media MQS prob
   generator, periodic motor speed reversals, DC commutator machines, and self-excited
   machines.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/0c5acd983b0406341c676b3666fa0e3d_lec18.pdf
+file_size: 1367385
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

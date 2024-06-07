@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on electromagnetics and applications, switched transmission
   line systems, rectangular waveguide, TE, TM modes, and their fundamental shapes.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/5470238fd5ac5eb6c7cc48fbac9fbd65_ps8.pdf
+file_size: 124099
 file_type: application/pdf
 learning_resource_types:
 - Assignments
