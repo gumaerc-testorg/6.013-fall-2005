@@ -5,6 +5,7 @@ description: Lecture notes on Coulomb-Lorentz force law, Maxwell's equations in 
   for point, line, and surface charges and currents,  superposition, simple cylindrical
   and spherical source problems, and Edgerton's Boomer.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/547de84f22bc0a4035f4a285cd385afc_lec1.pdf
+file_size: 293899
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

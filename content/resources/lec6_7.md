@@ -6,6 +6,7 @@ description: Lecture notes on dielectric media, dipole model of polarization, eq
   in uniform conductors, Maxwell capacitor, Maxwell's EQS equations with magnetization,
   and magnetic circuits.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/a95e37a826946736a065f36767f86a8f_lec6_7.pdf
+file_size: 1276923
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

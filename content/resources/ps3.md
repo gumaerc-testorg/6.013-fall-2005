@@ -5,6 +5,7 @@ description: Problem set on electromagnetics and applications, potential and ele
   dipole, net charge, expression for the voltage, surface current, and force per unit
   length.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/13051ffe8b69c95433d4c65d1e85a850_ps3.pdf
+file_size: 259718
 file_type: application/pdf
 learning_resource_types:
 - Assignments

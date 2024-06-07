@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to the second quiz of the course.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/23112e35739f21dfaf8ce60783d06f87_q2_solution.pdf
+file_size: 183086
 file_type: application/pdf
 learning_resource_types:
 - Exams

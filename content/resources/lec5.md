@@ -4,6 +4,7 @@ description: Lecture notes on the electric potential, the method of images, nonu
   of voltage in an MQS system, point charge above ground plane, point charge and sphere,
   point electric dipole, and line current above a perfect conductor.
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/7e96c40bee771e12b7a3a2e28b326b31_lec5.pdf
+file_size: 441857
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

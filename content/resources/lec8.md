@@ -3,6 +3,7 @@ content_type: resource
 description: "Lecture notes on transverse electromagnetic waves, Maxwell's equations,\
   \ Poynting\u2019s theorem', normal incidence on to a dielectric, and lossy dielectrics."
 file: /courses/6-013-electromagnetics-and-applications-fall-2005/2f455332ba1548a8db83ef1d78592088_lec8.pdf
+file_size: 912944
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
