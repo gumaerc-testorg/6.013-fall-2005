@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on on electromagnetics, applications, and Coulomb force law.
-file: /courses/6-013-electromagnetics-and-applications-fall-2005/07f7885ef2b50670e8fea46c058b9439_ps1.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/07f7885ef2b50670e8fea46c058b9439_ps1.pdf
 file_size: 215087
 file_type: application/pdf
 learning_resource_types:
