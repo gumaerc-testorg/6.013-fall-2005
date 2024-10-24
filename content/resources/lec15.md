@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on dielectric waveguides, transverse electric solutions,
   and transverse magnetic solutions.
-file: /courses/6-013-electromagnetics-and-applications-fall-2005/b779e35088c0fac1b35806ebdba23c76_lec15.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/b779e35088c0fac1b35806ebdba23c76_lec15.pdf
 file_size: 204048
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the first quiz of the course.
-file: /courses/6-013-electromagnetics-and-applications-fall-2005/b27544e8294dc57b28ad47370a004a12_q1_solution.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/b27544e8294dc57b28ad47370a004a12_q1_solution.pdf
 file_size: 50965
 file_type: application/pdf
 learning_resource_types:
