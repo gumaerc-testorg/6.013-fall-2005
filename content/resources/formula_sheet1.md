@@ -3,7 +3,7 @@ content_type: resource
 description: "Formula sheet for the first exam on Cartesian coordinates, cylindrical\
   \ coordinates, spherical coordinates, vector identities, Maxwell\u2019s equations,\
   \ integral theorems, and physical constants."
-file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/75b51c66ac69c46fd425b768d1256301_formula_sheet1.pdf
+file: /courses/6-013-electromagnetics-and-applications-fall-2005/75b51c66ac69c46fd425b768d1256301_formula_sheet1.pdf
 file_size: 113291
 file_type: application/pdf
 learning_resource_types: []
