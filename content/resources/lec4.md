@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture notes on the scalar electric potential, Poisson\u2019s equation,\
   \ the Coulomb superposition integral, quasistatics, irrotational EQS electric fields,\
   \ and vector identity."
-file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/6254accbbe56e6cdd24d2916bcdbccd3_lec4.pdf
+file: /courses/6-013-electromagnetics-and-applications-fall-2005/6254accbbe56e6cdd24d2916bcdbccd3_lec4.pdf
 file_size: 146193
 file_type: application/pdf
 learning_resource_types:
