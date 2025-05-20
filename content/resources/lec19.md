@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on electromagnetic radiation, retarded potentials, radiation
   from a point electric dipole, and power density.
-file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/8b731926b8ec68447762df43dd0ed5e4_lec19.pdf
+file: /courses/6-013-electromagnetics-and-applications-fall-2005/8b731926b8ec68447762df43dd0ed5e4_lec19.pdf
 file_size: 906296
 file_type: application/pdf
 learning_resource_types:

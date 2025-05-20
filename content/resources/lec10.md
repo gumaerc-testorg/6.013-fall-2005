@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on parallel plate transmission lines, wave equations, sinusoidal
   steady states, and visualization of standing waves.
-file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/d271a338f6d6db8bf70df4ad95d805d6_lec10.pdf
+file: /courses/6-013-electromagnetics-and-applications-fall-2005/d271a338f6d6db8bf70df4ad95d805d6_lec10.pdf
 file_size: 587864
 file_type: application/pdf
 learning_resource_types:

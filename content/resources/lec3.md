@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on divergence and Stokes' theorems, Maxwell's equations
   in differential form, electroquasistatics and magnetoquasistatics (MQS), and potential
   and the gradient operator.
-file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/df6b152650ac3118dbe4681647ff77d8_lec3.pdf
+file: /courses/6-013-electromagnetics-and-applications-fall-2005/df6b152650ac3118dbe4681647ff77d8_lec3.pdf
 file_size: 622929
 file_type: application/pdf
 learning_resource_types:

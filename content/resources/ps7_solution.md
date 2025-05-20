@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on electromagnetics and applications.
-file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/2b95e33eb82850d590d9ea5f13ca3056_ps7_solution.pdf
+file: /courses/6-013-electromagnetics-and-applications-fall-2005/2b95e33eb82850d590d9ea5f13ca3056_ps7_solution.pdf
 file_size: 149431
 file_type: application/pdf
 learning_resource_types:
