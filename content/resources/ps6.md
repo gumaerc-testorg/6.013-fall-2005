@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on electromagnetics and applications, electric field, Poynting's
   theorem, permeability, permittivity, electric field, and critical angle of transmission.
-file: /courses/6-013-electromagnetics-and-applications-fall-2005/175a2497215c140d8af741cddbdf27fd_ps6.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/175a2497215c140d8af741cddbdf27fd_ps6.pdf
 file_size: 155375
 file_type: application/pdf
 learning_resource_types:

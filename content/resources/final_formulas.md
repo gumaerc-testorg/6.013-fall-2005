@@ -3,7 +3,7 @@ content_type: resource
 description: Formula sheet for the final exam on Cartesian coordinates, cylindrical
   coordinates, spherical coordinates, basic equations for electromagnetics and applications,
   and transmission lines.
-file: /courses/6-013-electromagnetics-and-applications-fall-2005/d121304745bb4ba431ab8458265caf92_final_formulas.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/d121304745bb4ba431ab8458265caf92_final_formulas.pdf
 file_size: 184011
 file_type: application/pdf
 learning_resource_types: []

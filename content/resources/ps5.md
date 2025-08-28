@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on electromagnetics and applications, free charge density,
   magnetic field, current density, Poynting vector, permittivity, and boundary conditions.
-file: /courses/6-013-electromagnetics-and-applications-fall-2005/399872f7690a6153995d222a147db8a1_ps5.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/399872f7690a6153995d222a147db8a1_ps5.pdf
 file_size: 167713
 file_type: application/pdf
 learning_resource_types:
