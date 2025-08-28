@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on transmitting and receiving antennas.
-file: /courses/6-013-electromagnetics-and-applications-fall-2005/b8051505996e2668bf23bc02021f7a2a_lec21.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/b8051505996e2668bf23bc02021f7a2a_lec21.pdf
 file_size: 1585629
 file_type: application/pdf
 learning_resource_types:

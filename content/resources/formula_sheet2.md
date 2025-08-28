@@ -2,7 +2,7 @@
 content_type: resource
 description: Formula sheet for the second exam on differential operators in cylindrical
   and spherical coordinates, and solutions of Laplace's equations.
-file: /courses/6-013-electromagnetics-and-applications-fall-2005/59e100001186c03a19ca3361dcd3b240_formula_sheet2.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/59e100001186c03a19ca3361dcd3b240_formula_sheet2.pdf
 file_size: 150049
 file_type: application/pdf
 learning_resource_types: []
