@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on dipole arrays.
-file: /courses/6-013-electromagnetics-and-applications-fall-2005/0bcdd9182648636aaa171ad9b0e68ceb_lec20.pdf
+file: /ol-ocw-studio-app/courses/6-013-electromagnetics-and-applications-fall-2005/0bcdd9182648636aaa171ad9b0e68ceb_lec20.pdf
 file_size: 1175461
 file_type: application/pdf
 learning_resource_types:
